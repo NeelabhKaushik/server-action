@@ -3,9 +3,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: "http",
-        hostname: "shikimori.one",
-        port: "",
+        protocol: "https",
+        hostname: "**",
       },
     ],
   },

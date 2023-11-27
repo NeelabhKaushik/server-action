@@ -12,7 +12,7 @@ function Hero() {
           className="object-contain"
         />
         <h1 className="sm:text-6xl text-5xl text-white lg:max-w-lg font-bold leading-[120%]">
-          Explore The Latest <span className="red-gradient">Movies</span> here
+          Explore The Latest <span className="blue-gradient">Movies</span> here
           
         </h1>
       </div>
